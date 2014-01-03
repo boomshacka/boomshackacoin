@@ -1,0 +1,4 @@
+boomshackacoin
+==============
+
+BoomShaka cryptocurrency repo
